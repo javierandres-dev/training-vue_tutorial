@@ -3,6 +3,8 @@
 :copyright: 2022  
 Build to learn and training base on [Vue tutorial](https://vuejs.org/tutorial/)  
 How does it look? Take a look at (soon).[]()
+## Resources
+* [Customize configuration - See Configuration Reference](https://cli.vuejs.org/config/)
 ## Requirements
 * NodeJS
 ## Stack
@@ -23,8 +25,6 @@ npm run build
 ```
 npm run lint
 ```
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 - - -
 ## Software Developer
 [Javier Andrés Garzón Patarroyo](https://javierandres.dev)
